@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Player</string>
+    <string name="playing_now">Без названия - Неизвестен</string>
+    <string name="cover">album cover</string>
+    <string name="settings">Settings</string>
+    <string name="progressbar">progressbar of the track</string>
+    <string name="previous">previous track</string>
+    <string name="play">play/pause track</string>
+    <string name="next">next track</string>
+
+</resources>
